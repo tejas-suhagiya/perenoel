@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Table of Contents
+-----------------------------------------------------------------------------
+1. Mobile
+2. Large Mobile
+3. iPad
+4. large desktop
+5. Other
+*/
+
+/* 1. Mobile responsive css 640px
+------------------------------------------------------------------------------*/
+@media (min-width:1px) and (max-width:640px) {
+	
+}
+
+/* 2. Large Mobile responsive css 640px
+------------------------------------------------------------------------------*/
+@media (min-width:641px) and (max-width:767px) {
+	
+}
+/* 3. iPad responsive css 768px to 1023px
+------------------------------------------------------------------------------*/
+@media (min-width:768px) and (max-width:1023px) {
+	
+}
+
+/* 4. large desktop responsive css 1024px to 1199px
+------------------------------------------------------------------------------*/
+@media (min-width:1024px) and (max-width:1280px) {	
+
+}
+
+/* 5. Other media-query
+------------------------------------------------------------------------------*/
+
